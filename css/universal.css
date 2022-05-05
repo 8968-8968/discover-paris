@@ -40,14 +40,15 @@ nav.navbar-nav div.navbar-container div.navbar-brand img {
 .navbar-nav div.navbar-container ul.nav-link-set a {
     text-decoration: none;
     color: #ffffff;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: relative;
     margin: 10px;
     font-size: 2vw;
 }
 div.container {
-    margin-top: 10vw;
+    margin-top: 9vw;
 }
 h1.page-title {
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
