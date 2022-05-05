@@ -1,0 +1,47 @@
+/* Discover Paris Main Stylesheet */
+@charset "utf-8";
+nav.navbar-nav {
+    background-color: #73707f;
+    position: fixed top;
+    margin: 0;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    height: 5vw;
+    margin-bottom: 15px;
+}
+nav.navbar-nav div.navbar-container {
+    display: flex;
+    display: flexbox;
+    display: -ms-flexbox;
+    justify-content: center;
+}
+nav.navbar-nav div.navbar-container div.navbar-brand img {
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    width: 30vw;
+    position: relative;
+    margin: 0;
+}
+.navbar-nav div.navbar-container ul.nav-link-set {
+    list-style-type: none;
+    display: flex;
+    display: flexbox;
+    display: -ms-flexbox;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 15px;
+    height: 5vw;
+    margin-top: 0px;
+}
+.navbar-nav div.navbar-container ul.nav-link-set a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    margin: 10px;
+    font-size: 2vw;
+}
