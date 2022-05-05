@@ -1,5 +1,9 @@
 /* Discover Paris Main Stylesheet */
 @charset "utf-8";
+@font-face {
+    src: url(../fonts/DancingScript-Regular.ttf);
+    font-family: Dancing Script
+}
 nav.navbar-nav {
     background-color: #73707f;
     position: fixed top;
@@ -50,5 +54,5 @@ div.container {
 }
 h1.page-title {
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Dancing Script, Tahoma, Geneva, Verdana, sans-serif;
 }
