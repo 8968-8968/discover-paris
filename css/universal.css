@@ -45,3 +45,6 @@ nav.navbar-nav div.navbar-container div.navbar-brand img {
     margin: 10px;
     font-size: 2vw;
 }
+div.container {
+    margin-top: 5vw;
+}
