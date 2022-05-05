@@ -10,7 +10,7 @@ nav.navbar-nav {
     left: 0;
     padding: 0;
     height: 5vw;
-    margin-bottom: 15px;
+    margin-bottom: 5vw;
 }
 nav.navbar-nav div.navbar-container {
     display: flex;
