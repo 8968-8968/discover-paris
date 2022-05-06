@@ -56,3 +56,6 @@ h1.page-title {
     text-align: center;
     font-family: Dancing Script, Tahoma, Geneva, Verdana, sans-serif;
 }
+ol, p, ul {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
