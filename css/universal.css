@@ -50,6 +50,7 @@ nav.navbar-nav div.navbar-container div.navbar-brand img {
     font-size: 2vw;
 }
 div.container {
+    margin: 15px;
     margin-top: 9vw;
 }
 h1.page-title {
