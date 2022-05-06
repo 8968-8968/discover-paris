@@ -4,6 +4,9 @@
     src: url(../fonts/DancingScript-Regular.ttf);
     font-family: Dancing Script
 }
+body {
+    background-color: #bdbdbd;
+}
 nav.navbar-nav {
     background-color: #73707f;
     position: fixed top;
