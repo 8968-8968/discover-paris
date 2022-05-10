@@ -9,7 +9,7 @@ body {
 }
 nav.navbar-nav {
     background-color: #73707f;
-    position: fixed top;
+    position: sticky;
     margin: 0;
     width: 100%;
     position: absolute;
