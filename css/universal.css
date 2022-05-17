@@ -4,11 +4,6 @@
     src: url(../fonts/DancingScript-Regular.ttf);
     font-family: Dancing Script
 }
-html {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
 body {
     background-color: #bdbdbd;
     margin: 0;
