@@ -13,12 +13,11 @@ nav.navbar-nav {
     position: sticky;
     margin: 0;
     width: 100%;
-    width: 100vw;
     height: 5vw;
     margin-bottom: 5vw;
 }
 img.headerimg {
-    width: 100vw;
+    width: 100%;
     height: auto;
 }
 nav.navbar-nav div.navbar-container {
