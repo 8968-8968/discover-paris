@@ -11,6 +11,7 @@ html {
 }
 body {
     background-color: #bdbdbd;
+    margin: 0;
 }
 nav.navbar-nav {
     background-color: #73707f;
