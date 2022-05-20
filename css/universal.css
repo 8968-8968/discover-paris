@@ -1,8 +1,12 @@
 /* Discover Paris Main Stylesheet */
 @charset "utf-8";
 @font-face {
-    src: url(../fonts/DancingScript-Regular.ttf);
+    src: url(../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
     font-family: Dancing Script
+}
+@font-face {
+    src: url(../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+    font-family: Open Sans
 }
 body {
     background-color: #bdbdbd;
@@ -66,4 +70,34 @@ h1.page-title {
 }
 ol, p, ul {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.card-list {
+    display: flex;
+    display: flexbox;
+    display: -ms-flexbox;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+}
+div.card-list div.card-container {
+    margin: 10px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    height: 300px;
+    font-family: Open Sans, 'Roboto', sans-serif, arial;
+    width: 30%;
+    min-width: 150px;
+}
+div.card-container div.card-header {
+    padding: 5px;
+    border-bottom: 2px solid #bdbdbd;
+    text-align: center;
+}
+div.card-container div.card-body {
+    padding: 5px;
+}
+div.card-container div.card-footer {
+    padding: 5px;
+    border-top: 2px solid #bdbdbd;
+    text-align: center;
 }
