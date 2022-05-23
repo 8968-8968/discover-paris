@@ -87,6 +87,11 @@ div.card-list div.card-container {
     font-family: Open Sans, 'Roboto', sans-serif, arial;
     width: 30%;
     min-width: 150px;
+    display: flex;
+    display: flexbox;
+    display: -ms-flexbox;
+    flex-direction: column;
+
 }
 div.card-container div.card-header {
     padding: 5px;
@@ -95,6 +100,7 @@ div.card-container div.card-header {
 }
 div.card-container div.card-body {
     padding: 5px;
+    flex: 100%;
 }
 div.card-container div.card-footer {
     padding: 5px;
